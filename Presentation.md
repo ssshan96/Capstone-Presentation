@@ -51,7 +51,7 @@ marp: true
         - Team members created their own "sand-box" servers to familiarize themselves with Discord and its API.
     - Insufficient understanding of Python and JavaScript
         - Research was required
-        - "Sand-box" servers were used to learn, practice, and test features of "sand-box" bots.
+        - "Sand-box" servers were used to learn, practice, and test features of "sand-box" bots created using Python and JavaScript.
 ---
 ## Approaches to resolving issues/conflicts (Pt.2)
 - Researching solutions
