@@ -62,7 +62,7 @@ marp: true
     - Some pre-built bots require a paid subscription/have limited functionalities
         - Research was required
         - Multiple pre-built bots were tested in "sand-box" servers for various functionalities
-        - Atlas and Dino bots were used in the final implementation
+        - Atlas bot was used in the final implementation
 ---
 ## Approaches to resolving issues/conflicts (Pt.3)
 - Team issues/conflicts
