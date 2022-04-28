@@ -94,7 +94,7 @@ marp: true
         - "discussions" channel for voice-discussions for the class
 ---
 ## Implementation (Pt.3)
-- Pre-built bot (Atlaso)
+- Pre-built bot (Atlas)
     - Atlas
         - Creates a "Reaction Roles" message in "rules" channel of the server
         - Sends a PM to a user when they first join the server on directions on how to use the server
