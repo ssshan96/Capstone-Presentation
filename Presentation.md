@@ -1,7 +1,7 @@
 ---
 marp: true
 ---
-## Team 28: Classroom setting Discord server + Migration
+## Team 27: Classroom setting Discord server + Migration
 ### By: Cade Cofer, James Norum, Saadman Shan, Cin Vaan
 ---
 ## Table of contents
